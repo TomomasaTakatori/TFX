@@ -18,6 +18,10 @@ jupyter-tensorboard = "*"
 matplotlib = "*"
 bazel = "*"
 tensoflow-data-validation = "*"
+ml-metadata = "*"
+sqlite3 = "*"
+kfmd = "*"
+help = "*"
 
 [requires]
 python_version = "3.7"
