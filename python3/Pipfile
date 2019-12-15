@@ -6,22 +6,17 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-jupyterlab = "*"
 tensorflow = "*"
-apache-beam = "*"
 tfx = "*"
 pandas = "*"
 numpy = "*"
 scipy = "*"
-tensorboard = "*"
-jupyter-tensorboard = "*"
 matplotlib = "*"
-bazel = "*"
-tensoflow-data-validation = "*"
 ml-metadata = "*"
-sqlite3 = "*"
 kfmd = "*"
-help = "*"
+jupyterlab = "*"
+tensorflow-data-validation = "*"
+apache-beam = "*"
 
 [requires]
 python_version = "3.7"
